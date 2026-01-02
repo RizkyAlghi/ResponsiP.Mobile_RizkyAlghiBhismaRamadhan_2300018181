@@ -1,0 +1,37 @@
+com.pmob.weatherapp-activity-1.8.0-0 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/00fbaeef29ea9998488c9a2372c6e00c/transformed/activity-1.8.0/res
+com.pmob.weatherapp-core-ktx-1.13.0-1 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/09b41feee72d253cf4ba135e7f8d76e5/transformed/core-ktx-1.13.0/res
+com.pmob.weatherapp-material-1.12.0-2 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/0bccea009f609a5163ffe523bb197574/transformed/material-1.12.0/res
+com.pmob.weatherapp-emoji2-1.3.0-3 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/123964488bc7954c673a70af07093745/transformed/emoji2-1.3.0/res
+com.pmob.weatherapp-cardview-1.0.0-4 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/1e51b79c94bec0870e987505e873f550/transformed/cardview-1.0.0/res
+com.pmob.weatherapp-lifecycle-runtime-2.6.2-5 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/1e96433f417bcfafa94d736500df0034/transformed/lifecycle-runtime-2.6.2/res
+com.pmob.weatherapp-play-services-basement-18.4.0-6 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/2c991d3a9d785b183f980d19073c0015/transformed/play-services-basement-18.4.0/res
+com.pmob.weatherapp-fragment-1.5.4-7 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/32fc242b59b142bd92f2ea682aae1410/transformed/fragment-1.5.4/res
+com.pmob.weatherapp-coordinatorlayout-1.1.0-8 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/3577b16c69ccdb30ebce408f9aec4e24/transformed/coordinatorlayout-1.1.0/res
+com.pmob.weatherapp-startup-runtime-1.1.1-9 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/38d8d30aee3ba52246a2811f22899175/transformed/startup-runtime-1.1.1/res
+com.pmob.weatherapp-transition-1.5.0-10 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/3e812f17201017ed8600ee9d7f01a8af/transformed/transition-1.5.0/res
+com.pmob.weatherapp-savedstate-1.2.1-11 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/44b531a7f411c0f5d7c9fb10931db42b/transformed/savedstate-1.2.1/res
+com.pmob.weatherapp-lifecycle-livedata-2.6.2-12 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/4b3a54c50ab78e41c3c79d1fd763e4ad/transformed/lifecycle-livedata-2.6.2/res
+com.pmob.weatherapp-lifecycle-viewmodel-savedstate-2.6.2-13 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/4ca90a684ca928648e06b300d9cb8ca3/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.pmob.weatherapp-drawerlayout-1.1.1-14 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/546b306269ad83703cfa6ed8daa13b3b/transformed/drawerlayout-1.1.1/res
+com.pmob.weatherapp-appcompat-resources-1.7.0-15 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/679ade1bc6b20024b40abf4ba7fd03eb/transformed/appcompat-resources-1.7.0/res
+com.pmob.weatherapp-play-services-base-18.5.0-16 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/6db245c7edec5666ef692a4321cd0c9a/transformed/play-services-base-18.5.0/res
+com.pmob.weatherapp-constraintlayout-2.2.0-17 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/7739fdb3047f75fe391617fb11046038/transformed/constraintlayout-2.2.0/res
+com.pmob.weatherapp-recyclerview-1.1.0-18 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/7a30c06d0bd14f1c0e5ee9ec75e7dac7/transformed/recyclerview-1.1.0/res
+com.pmob.weatherapp-play-services-maps-19.2.0-19 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/992d1faf73c1fb06191922addb16d924/transformed/play-services-maps-19.2.0/res
+com.pmob.weatherapp-appcompat-1.7.0-20 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/a9e68961fb63d2550c4a24c5d5c5d6d9/transformed/appcompat-1.7.0/res
+com.pmob.weatherapp-viewpager2-1.0.0-21 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/b64cb889188dee9937df3ceb9186cda1/transformed/viewpager2-1.0.0/res
+com.pmob.weatherapp-lifecycle-livedata-core-2.6.2-22 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/ba365ade094f8168cd68bfa25d1606c9/transformed/lifecycle-livedata-core-2.6.2/res
+com.pmob.weatherapp-core-runtime-2.2.0-23 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/bac2f2774e6553e122114aed5e4ccff3/transformed/core-runtime-2.2.0/res
+com.pmob.weatherapp-emoji2-views-helper-1.3.0-24 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/cc6764c16dfd1988e5d4e478aa69120b/transformed/emoji2-views-helper-1.3.0/res
+com.pmob.weatherapp-lifecycle-viewmodel-2.6.2-25 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/ce9924682725bedcd4985c21d2ac25e0/transformed/lifecycle-viewmodel-2.6.2/res
+com.pmob.weatherapp-core-1.13.0-26 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/cebc75f23f9348e77cb7f2a1a5f92d47/transformed/core-1.13.0/res
+com.pmob.weatherapp-annotation-experimental-1.4.0-27 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/d2c78fb7d11cd8531fe8349ca19ecf7c/transformed/annotation-experimental-1.4.0/res
+com.pmob.weatherapp-profileinstaller-1.4.0-28 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/e95554260fd8c7fdb0e52a1e5512c987/transformed/profileinstaller-1.4.0/res
+com.pmob.weatherapp-lifecycle-process-2.6.2-29 /Users/rizzrmdhnnnn17/.gradle/caches/transforms-3/f57a79a61f3d9a75ba306f0eee994229/transformed/lifecycle-process-2.6.2/res
+com.pmob.weatherapp-pngs-30 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/build/generated/res/pngs/debug
+com.pmob.weatherapp-resValues-31 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/build/generated/res/resValues/debug
+com.pmob.weatherapp-packageDebugResources-32 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.pmob.weatherapp-packageDebugResources-33 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.pmob.weatherapp-merged_res-34 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/build/intermediates/merged_res/debug
+com.pmob.weatherapp-debug-35 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/src/debug/res
+com.pmob.weatherapp-main-36 /Users/rizzrmdhnnnn17/Documents/Semester 5/WeatherApp/app/src/main/res

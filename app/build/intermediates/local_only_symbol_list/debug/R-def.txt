@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
+color black
+color white
+drawable background
+drawable background2
+drawable humidity
+drawable ic_01d
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable wind
+font urbanist
+id cityNameInput
+id cityNameText
+id descriptionText
+id detailsCard
+id fetchWeatherButton
+id humidityText
+id map
+id mapCard
+id temperatureText
+id tvUpdate
+id weatherIcon
+id windText
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.WeatherApp
+style Theme.WeatherApp
+xml backup_rules
+xml data_extraction_rules
